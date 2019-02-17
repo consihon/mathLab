@@ -7,7 +7,7 @@
 ### Author: Connor Sihon
 
 ### Links and Resources
-* [repo]()
+* [repo](https://github.com/consihon/mathLab.git)
 * [travis]()
 * [back-end]()
 
