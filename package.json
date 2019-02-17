@@ -1,0 +1,21 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "lab 01 for codefellows 401",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "author": "Connor Sihon",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^5.13.0",
+    "faker": "^4.1.0",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {}
+}
