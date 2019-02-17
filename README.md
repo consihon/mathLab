@@ -2,7 +2,7 @@
 ==============================================
 
 ## LAB 01
-[![Build Status]()
+[![Build Status](https://travis-ci.com/consihon/mathLab.svg?branch=master)](https://travis-ci.com/consihon/mathLab)
 
 ### Author: Connor Sihon
 
