@@ -2,14 +2,14 @@
 ==============================================
 
 ## LAB 01
-[![Build Status](https://travis-ci.org/vladimirsan/cf-travis-deployment.svg?branch=master)](https://travis-ci.org/vladimirsan/cf-travis-deployment)
+[![Build Status]()
 
 ### Author: Connor Sihon
 
 ### Links and Resources
 * [repo](https://github.com/consihon/mathLab.git)
-* [travis]()
-* [back-end]()
+* [travis](https://travis-ci.com/consihon/mathLab.svg?branch=master)
+* [back-end](https://mathlab401n12.herokuapp.com/)
 
 ### Modules
 #### `greet.js`
