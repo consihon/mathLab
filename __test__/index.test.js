@@ -62,6 +62,5 @@ function testArray (size){
         this.expectSub-=rand;
         this.expectMultiply*=rand;
         this.expectDivide/=rand;
-        length--;
     }
 }
